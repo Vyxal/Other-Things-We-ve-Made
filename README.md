@@ -9,3 +9,4 @@ Items are sorted alphebatically, so make sure to add them in that order.
 - [Grok](https://github.com/AMiller42/Grok-Language) by [AMiller42](https://github.com/AMiller42)
 - [halfwit](https://github.com/chunkybanana/halfwit) by [chunkybanana](https://github.com/chunkybanana/halfwit)
 - [Noxan](https://github.com/TheSecondComing123/Noxan) by [TheSecondComing123](https://github.com/TheSecondComing123) and [SENitro](https://github.com/SE-Nitro)
+- [StackExchange](https://github.com/cgccuser/StackExchange) by [cgccuser](https://github.com/cgccuser)
