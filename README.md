@@ -6,7 +6,6 @@ Items are sorted alphebatically, so make sure to add them in that order.
 
 - [APOL](https://github.com/GingerIndustries/PyPOL)
 - [Chocolate](http://github.com/steffan153/chocolate) by [Steffan153](https://github.com/steffan153)
-- [Etch](https://github.com/GingerIndustries/Etch)
 - [Fig](https://github.com/Seggan/Fig) by [Seggan](https://github.com/Seggan)
 - [flax](https://github.com/PyGamer0/flax) by [PyGamer0](https://github.com/PyGamer0)
 - [Grok](https://github.com/AMiller42/Grok-Language) by [AMiller42](https://github.com/AMiller42)
