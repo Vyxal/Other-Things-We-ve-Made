@@ -14,3 +14,5 @@ Items are sorted alphebatically, so make sure to add them in that order.
 - [Noxan](https://github.com/TheSecondComing123/Noxan) by [TheSecondComing123](https://github.com/TheSecondComing123) and [SENitro](https://github.com/SE-Nitro)
 - [StackExchange](https://github.com/cgccuser/StackExchange) by [cgccuser](https://github.com/cgccuser)
 - [TalkingHead](https://github.com/PlaceReporter99/talking-head/) by [PlaceReporter99](https://github.com/PlaceReporter99)
+- [Thunno 2](https://github.com/Thunno/Thunno2) by [nayakrujul](https://github.com/nayakrujul)
+
